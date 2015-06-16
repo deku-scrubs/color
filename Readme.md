@@ -10,8 +10,14 @@ Style string generator for colors. Thank you [jsxstyle](https://github.com/peteh
     $ npm install @weo-edu/color
 
 
-## API
+## Example
 
+```js
+color.rgb(255, 255, 255).toString()
+// 'rgba(255, 255, 255)'
+```
+
+## API
 
 #### .rgb(red, blue, green)
 
