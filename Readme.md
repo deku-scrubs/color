@@ -1,9 +1,9 @@
 
 # color
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[ ![Codeship Status for weo-edu/color](https://img.shields.io/codeship/448deb10-f5f3-0132-7126-020cea137f51/master.svg)](https://codeship.com/projects/85910) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-color style string generator. Thank you [jsxstyle](https://github.com/petehunt/jsxstyle).
+Style string generator for colors. Thank you [jsxstyle](https://github.com/petehunt/jsxstyle).
 
 ## Installation
 
