@@ -1,7 +1,7 @@
 {
-  "name": "@weo-edu/color",
-  "description": "style string color generator",
-  "repository": "git://github.com/weo-edu/color.git",
+  "name": "@deku-scrubs/color",
+  "description": "css string color generator",
+  "repository": "git://github.com/deku-scrubs/color.git",
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",

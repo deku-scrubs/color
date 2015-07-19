@@ -7,7 +7,7 @@ Style string generator for colors. Thank you [jsxstyle](https://github.com/peteh
 
 ## Installation
 
-    $ npm install @weo-edu/color
+    $ npm install @deku-scrubs/color
 
 
 ## Example
